@@ -1,5 +1,6 @@
 Pygame .obj Viewer
 =================
+<img src="http://i.imgur.com/rzMucj9.gif">
 
 A very simple and bare-bones 3D wireframe .obj viewer, made with Python 2.7 and Pygame.
 
