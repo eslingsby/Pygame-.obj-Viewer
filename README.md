@@ -6,7 +6,7 @@ A very simple and bare-bones 3D wireframe .obj viewer, made with Python 2.7 and 
 
 Don't expect to use this as an actual tool, it's just something from 2012 I made for fun.
 
-### Requirements for bin ###
+### Requirements for bin (No bin release yet)###
 
 - Windows XP or higher
 
