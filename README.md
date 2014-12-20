@@ -2,6 +2,11 @@ Pygame .obj Viewer
 =================
 <img src="http://i.imgur.com/vWkfICo.gif">
 
+
+
+Requirements
+============
+
 A very simple and bare-bones 3D wireframe .obj viewer, made with Python 2.7 and Pygame.
 
 Don't expect to use this as an actual tool, it's just something from 2012 I made for fun.
