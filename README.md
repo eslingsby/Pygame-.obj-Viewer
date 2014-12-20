@@ -4,7 +4,7 @@ Pygame .obj Viewer
 
 
 
-Requirements
+Description:
 ============
 
 A very simple and bare-bones 3D wireframe .obj viewer, made with Python 2.7 and Pygame.
